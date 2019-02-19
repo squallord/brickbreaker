@@ -1,0 +1,11 @@
+C:\diego\workshop\csharp\brickbreaker\bin\Debug\netcoreapp2.2\brickbreaker.deps.json
+C:\diego\workshop\csharp\brickbreaker\bin\Debug\netcoreapp2.2\brickbreaker.runtimeconfig.json
+C:\diego\workshop\csharp\brickbreaker\bin\Debug\netcoreapp2.2\brickbreaker.runtimeconfig.dev.json
+C:\diego\workshop\csharp\brickbreaker\bin\Debug\netcoreapp2.2\brickbreaker.dll
+C:\diego\workshop\csharp\brickbreaker\bin\Debug\netcoreapp2.2\brickbreaker.pdb
+C:\diego\workshop\csharp\brickbreaker\obj\Debug\netcoreapp2.2\brickbreaker.csprojAssemblyReference.cache
+C:\diego\workshop\csharp\brickbreaker\obj\Debug\netcoreapp2.2\brickbreaker.csproj.CoreCompileInputs.cache
+C:\diego\workshop\csharp\brickbreaker\obj\Debug\netcoreapp2.2\brickbreaker.AssemblyInfoInputs.cache
+C:\diego\workshop\csharp\brickbreaker\obj\Debug\netcoreapp2.2\brickbreaker.AssemblyInfo.cs
+C:\diego\workshop\csharp\brickbreaker\obj\Debug\netcoreapp2.2\brickbreaker.dll
+C:\diego\workshop\csharp\brickbreaker\obj\Debug\netcoreapp2.2\brickbreaker.pdb
